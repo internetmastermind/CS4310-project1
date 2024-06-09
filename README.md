@@ -1,5 +1,7 @@
 # Distance Vector Routing Simulation
 
+CS4310-project1
+
 Given a network topology the simulator will create routing tables and forward packets using those routing tables.
 Three Network topology files are supplied. Each file has a number of rows, with each row representing a link in the network. The three entries per row are \<Node1 ID\>, \<Node2 ID\>, \<Cost\>.
 
